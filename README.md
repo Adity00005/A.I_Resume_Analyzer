@@ -41,3 +41,10 @@ I hope that your venvapp is activated and working directory is inside App
 Run the App.py file using
 
 streamlit run App.py
+
+Tools and Technologies needs to run this Project:
+
+1.Python: https://www.python.org/downloads/
+2.MySQL: https://www.mysql.com/downloads/
+3.Visual Studio Code: (Prefered Code Editor) https://code.visualstudio.com/Download
+4.Visual Studio build tools for C++: https://aka.ms/vs/17/release/vs_BuildTools.exe
